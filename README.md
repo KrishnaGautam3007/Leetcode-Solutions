@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0113-path-sum-ii](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0113-path-sum-ii](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Search Tree
 |  |
@@ -21,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0113-path-sum-ii](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Array
 |  |
@@ -44,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->

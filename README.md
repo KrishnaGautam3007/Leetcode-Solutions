@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -32,19 +33,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [1288-remove-covered-intervals](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [1288-remove-covered-intervals](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Stack
 |  |
 | ------- |
@@ -78,4 +83,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->

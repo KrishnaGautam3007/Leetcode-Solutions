@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [1051-height-checker](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [1288-remove-covered-intervals](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [1051-height-checker](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [1288-remove-covered-intervals](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->

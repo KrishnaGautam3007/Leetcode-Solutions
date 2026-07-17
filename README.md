@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [3312-sorted-gcd-pair-queries](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Tree
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [3312-sorted-gcd-pair-queries](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -87,12 +90,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [1331-rank-transform-of-an-array](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
@@ -127,14 +132,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Counting Sort
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/1051-height-checker) |
+| [3312-sorted-gcd-pair-queries](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->

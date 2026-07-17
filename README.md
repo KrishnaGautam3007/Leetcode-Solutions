@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0455-assign-cookies](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [1051-height-checker](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/1051-height-checker) |
@@ -43,11 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/KrishnaGautam3007/Leetcode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
